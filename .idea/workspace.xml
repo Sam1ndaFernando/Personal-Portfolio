@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Services section Web Development card completed.">
-      <change afterPath="$PROJECT_DIR$/sss.html" afterDir="false" />
+    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Services section Completed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -72,7 +71,10 @@
       <workItem from="1708663758251" duration="4348000" />
       <workItem from="1708745350887" duration="38000" />
       <workItem from="1708836519673" duration="4013000" />
-      <workItem from="1708868463813" duration="7017000" />
+      <workItem from="1708868463813" duration="7669000" />
+      <workItem from="1709024992992" duration="2635000" />
+      <workItem from="1709302189457" duration="293000" />
+      <workItem from="1709303087766" duration="4173000" />
     </task>
     <task id="LOCAL-00001" summary="about me section done">
       <created>1708670587231</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708841251617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Services section Completed.">
+      <created>1708878874324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708878874325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="about me section done" />
     <MESSAGE value="Services section Web Development card completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Services section Web Development card completed." />
+    <MESSAGE value="Services section Completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Services section Completed." />
   </component>
 </project>
