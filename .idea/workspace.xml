@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Services section Completed.">
+    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="projects section Completed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -75,6 +75,8 @@
       <workItem from="1709024992992" duration="2635000" />
       <workItem from="1709302189457" duration="293000" />
       <workItem from="1709303087766" duration="4173000" />
+      <workItem from="1709308888961" duration="34000" />
+      <workItem from="1709385987054" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="about me section done">
       <created>1708670587231</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708878874325</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="projects section Completed.">
+      <created>1709308906692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709308906692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +116,7 @@
     <MESSAGE value="about me section done" />
     <MESSAGE value="Services section Web Development card completed." />
     <MESSAGE value="Services section Completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Services section Completed." />
+    <MESSAGE value="projects section Completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="projects section Completed." />
   </component>
 </project>
