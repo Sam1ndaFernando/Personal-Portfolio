@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="projects section Completed.">
+    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Assignments section Completed.">
+      <change afterPath="$PROJECT_DIR$/dgs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -76,7 +77,8 @@
       <workItem from="1709302189457" duration="293000" />
       <workItem from="1709303087766" duration="4173000" />
       <workItem from="1709308888961" duration="34000" />
-      <workItem from="1709385987054" duration="1503000" />
+      <workItem from="1709385987054" duration="1562000" />
+      <workItem from="1709474303261" duration="5003000" />
     </task>
     <task id="LOCAL-00001" summary="about me section done">
       <created>1708670587231</created>
@@ -106,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709308906692</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignments section Completed.">
+      <created>1709389102717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709389102717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
     <MESSAGE value="Services section Web Development card completed." />
     <MESSAGE value="Services section Completed." />
     <MESSAGE value="projects section Completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="projects section Completed." />
+    <MESSAGE value="Assignments section Completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments section Completed." />
   </component>
 </project>
