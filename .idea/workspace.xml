@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Assignments section Completed.">
-      <change afterPath="$PROJECT_DIR$/dgs.html" afterDir="false" />
+    <list default="true" id="4b7b6229-c8ee-48e8-9ab2-47b6e69ebc37" name="Changes" comment="Contact section Completed.">
+      <change afterPath="$PROJECT_DIR$/assets/apple-macbook-pro-stock-2021-apple-event-2021-dark-mode-5120x2880-6759.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -78,7 +78,9 @@
       <workItem from="1709303087766" duration="4173000" />
       <workItem from="1709308888961" duration="34000" />
       <workItem from="1709385987054" duration="1562000" />
-      <workItem from="1709474303261" duration="5003000" />
+      <workItem from="1709474303261" duration="8328000" />
+      <workItem from="1709527840162" duration="950000" />
+      <workItem from="1709556080416" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="about me section done">
       <created>1708670587231</created>
@@ -115,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709389102717</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Gallery section Completed.">
+      <created>1709482980267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709482980268</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Contact section Completed.">
+      <created>1709483010319</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709483010319</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +143,8 @@
     <MESSAGE value="Services section Completed." />
     <MESSAGE value="projects section Completed." />
     <MESSAGE value="Assignments section Completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignments section Completed." />
+    <MESSAGE value="Gallery section Completed." />
+    <MESSAGE value="Contact section Completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact section Completed." />
   </component>
 </project>
