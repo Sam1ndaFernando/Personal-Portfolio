@@ -13,5 +13,5 @@ Wireframe Link:
 https://app.diagrams.net/#G1ugMx_vkBhA6MSYqoZDJvVib93skZWiI5
 
 
-https://docs.google.com/document/d/1FyAci3Q7Fvm-m3rAM03e-dndtSqDux7FgG-0lFF1sBo/edit?usp=sharing
+https://docs.google.com/document/d/1YaB-VjMCkrxOj9oHG6L9LXufG6EFkWPvGuvLnT1PnQk/edit?usp=sharing
 
